@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @om1142
-- 👀 I’m interested in learning language and make projects.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on devlopment.
+- 👋 Hi, I’m Om Limbachiya
+- 👀 I’m interested in Web devlopment and problem solving.
+- 🌱 I’m student of Dhirubhai Ambani Institute of Information and Communication Technology.
 - 📫 You can reach me by mail:- omlimbachaia@gmail.com
 
 <!---
